@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExerciseOne</string>
+    <string name="lanche_01">Lanche 01 R$ </string>
+    <string name="lanche_02">Lanche 02 R$ </string>
+    <string name="lanche_03">Lanche 03 R$ </string>
+    <string name="ver">See</string>
+    <string name="comprar">Buy</string>
+    <string name="valor_total">Valor total é:</string>
+</resources>

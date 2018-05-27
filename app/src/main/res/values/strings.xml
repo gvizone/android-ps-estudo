@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExercicioUM</string>
+    <string name="lanche_01">Lanche 01 R$ </string>
+    <string name="lanche_02">Lanche 02 R$ </string>
+    <string name="lanche_03">Lanche 03 R$ </string>
+    <string name="ver">Ver</string>
+    <string name="comprar">Comprar</string>
+    <string name="valor_total">Valor total é:</string>
+    <string name="importante">Importante</string>
+    <string name="deseja_comprar">Deseja confirmar a compra?</string>
+    <string name="valor_foi">\n O valor foi R$</string>
+    <string name="sim">sim</string>
+    <string name="nao">nao</string>
+</resources>
